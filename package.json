@@ -12,6 +12,7 @@
   "dependencies": {
     "cypress": "^13.3.0",
     "init": "^0.1.2",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.11.174"
   }
 }
